@@ -26,3 +26,8 @@ Team Lead and Member (only) :- Deepak Kaura
 
 <img width="550" height="550" alt="workflow" src="https://github.com/user-attachments/assets/a012355e-e717-4815-b0a4-935946f64fa5"/>
 
+----
+
+### Prototype Output lookslike :-
+
+<img width="1848" height="798" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/4bbdd18a-7ff1-459d-815a-af896697d4de" />
