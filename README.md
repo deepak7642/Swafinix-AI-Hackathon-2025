@@ -18,7 +18,7 @@ Team Lead and Member (only) :- Deepak Kaura
 
 ### Methodology Workflow:
 
-<img width="550" height="550" alt="methodology" src="https://github.com/user-attachments/assets/51527f1a-b871-4447-a413-fa8c8893d06e" />
+<img width="420" height="420" alt="methodology" src="https://github.com/user-attachments/assets/51527f1a-b871-4447-a413-fa8c8893d06e" />
 
 -------
 
