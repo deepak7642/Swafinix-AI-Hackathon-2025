@@ -1,4 +1,4 @@
-# Swafinix-AI-Hackathon-2025
+# Swafinix AI Hackathon 2025
 
 #### Theme :- E-commerce – AI Cart Recovery Agent
 
