@@ -32,4 +32,4 @@ Team Lead and Member (only) :- Deepak Kaura
 
 <img width="1848" height="798" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/4bbdd18a-7ff1-459d-815a-af896697d4de" />
 
-#### *Note :-  Runs entirely on CPU, No API key required and Zero deployment overhead – Built using Gradio, pre-installed in Colab.*
+#### *Note :-  This Prototype runs entirely on CPU, No API key required and Zero deployment overhead – Built using Gradio, pre-installed in Colab. Also ensuring the solution is highly scalable, adaptable, and future-ready for enterprise demands.*
