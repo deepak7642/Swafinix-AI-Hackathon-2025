@@ -1,10 +1,8 @@
-# Swafinix AI Hackathon 2025
+# ReelCode : Project-A-Thons
 
 #### Theme :- E-commerce – AI Cart Recovery Agent
 
-*Prototype built-up by AI Devilops*
-
-Team Lead and Member (only) :- Deepak Kaura
+*Prototype built-up by Deepak Kaura* 
 
 -----
 
