@@ -14,6 +14,12 @@
 
 ---
 
+#### Crisp version of AI Cart Recovery Agent Prototype :- 
+
+*Imagine turning abandoned carts into recovered revenue. ⚡ This prototype blends customer behavior analytics, smart clustering, and predictive modeling to spot high-risk users before they drop off. An AI-driven recovery engine then recommends personalized re-engagement strategies — from tailored offers to smart reminders. With an interactive Gradio interface, businesses can explore segments, predict churn, and tap into an AI assistant for recovery actions. It’s not just about reducing cart abandonment — it’s about transforming hesitation into conversion. 💡*
+
+----
+
 ### Methodology Workflow:
 
 <img width="420" height="420" alt="methodology" src="https://github.com/user-attachments/assets/51527f1a-b871-4447-a413-fa8c8893d06e" />
